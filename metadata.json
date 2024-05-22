@@ -1,0 +1,31 @@
+{
+  "name": "Doge 𝔸sh",
+  "symbol": "ASH",
+  "description": "Just Doge Chihuahua — Ash's Coin!",
+  "image": "https://i.ibb.co/DCNJ10t/ashcoinpngg-min.png",
+  "external_url": "https://x.com/coinashcoin",
+  "attributes": [
+    {
+      "trait_type": "Doge coin type",
+      "value": "Chihuahua"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "Mommy & Pappy",
+        "share": 49
+      },
+      {
+        "address": "Mars (Planet)",
+        "share": 2
+      },
+      {
+        "address": "BDNWLaitjzQ2LFh6es5RQGSjPdrrttqpi3kicv4ZEW9t",
+        "share": 49
+      }
+    ]
+  },
+  "background_color": "ffffff",
+  "seller_fee_basis_points": 300
+}
